@@ -1,4 +1,4 @@
-### `App description`
+### `App describe`
 This a github searcher helps you find github users easily. This is a React app using the github API.
 
 

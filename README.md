@@ -1,5 +1,5 @@
 ### `App description`
-This a github search helps you find github users easily. This is a React app using the github API
+This a github searcher helps you find github users easily. This is a React app using the github API.
 
 
 ### `npm start`
